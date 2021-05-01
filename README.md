@@ -5,3 +5,4 @@
 * I am currently an engineering student.  📚
 * I am interested in art, coding and video games. 🎨
 * I am currently learning C++ ! Maybe I'll learn Go or Rust later. 💽
+* I'd love to write my own game engine !
